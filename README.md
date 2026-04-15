@@ -2,6 +2,8 @@
 
 **`Desenvolvedor FullStack`** **`Desenvolvedor de Jogos Indie`** **`Iniciando em PixelArt`**
 
+![GFAC01 GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=tokyonight)
+
 ---
 
 Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetininga conclui o ensino médio na Escola Estadual Darcy Vieira PEI e estou cursando atualmente TSI (Tecnologia em Sistemas para Internet) no IFSP (Instituto Federal de São Paulo) e estou cursando criação de jogos e pixelart online nos cursos da NoNeClass. Amo desenvolvimento de jogos e coisas relacionadas a internet, informatica e tecnologia no geral, e compartilho alguns dos meus projetos e conquistas no meu canal do Youtube: "[gbarou](https://www.youtube.com/@gbarou)", onde eu passo algumas dicas de desenvolvimento de sistemas para jogos, compartilho a minha expêriencia em algumas situações como dev e envio atualizações sobre meus projetos.
