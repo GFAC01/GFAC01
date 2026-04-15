@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** **`Desenvolvedor de Jogos Indie`** **`Iniciando em PixelArt`**
 
-![GFAC01 GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavxb&show_icons=true&theme=tokyonight)
+![GFAC01 GitHub stats](https://github-readme-stats.vercel.app/api?username=GFAC01&show_icons=true&theme=tokyonight)
 
 ---
 
