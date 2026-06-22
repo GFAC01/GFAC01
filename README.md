@@ -29,7 +29,7 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
     <a href="https://www.youtube.com/@gbarou?sub_confirmation=1">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title="Visualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC9QyJh4qTpwTHQQj568gJzQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
@@ -48,7 +48,7 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 
 ---
 
-### ⚙️ Linguagens e Técnologias 🤖
+### ⚙️ Linguagens e Tecnologias 🤖
 
 ### 🎮 Desenvolvimento de Jogos
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
@@ -113,7 +113,7 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
     src="https://img.itch.zone/aW1nLzIyMzI4NjIxLnBuZw==/315x250%23c/J7yLR5.png"
 />
 
-[Quack & Load](https://gfac.itch.io/quack-load) - Um projéto que iniciei em Julho de 2025 com a intenção de ser o meu primeiro jogo comercial, mas tive que deixar de lado devido a complexidade e tempo que iria levar para um primeiro jogo que poderia não dar tão certo quanto eu esperava. O jogo já tem duas armas, dois tipos de inimigos diferentes e um boss bem simpleszinho no final do jogo.
+[Quack & Load](https://gfac.itch.io/quack-load) - Um projeto que iniciei em Julho de 2025 com a intenção de ser o meu primeiro jogo comercial, mas tive que deixar de lado devido a complexidade e tempo que iria levar para um primeiro jogo que poderia não dar tão certo quanto eu esperava. O jogo já tem duas armas, dois tipos de inimigos diferentes e um boss bem simpleszinho no final do jogo.
 
 <br>
 <img
@@ -125,7 +125,7 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
     src="https://img.itch.zone/aW1nLzIyMzI4MDI2LnBuZw==/315x250%23c/vbz3fA.png"
 />
 
-[Mathemania](https://gfac.itch.io/mathemania) - Um jogo feito para celular de teste de velocidade de raciocínio lógico matemático, feito para um trabalho na faculdade onde o objetivo era deselvolver algum projeto que pudesse ajudar em uma das ODS(Objetivos de Desenvolvimento Sustentável (no caso foi escolhido a ODS 4 que implica em "Garantir uma educação inclusiva e equitativa de qualidade")) Durante a partida irão piscar varios números na tela, seu trabalho é fazer a soma deles de cabeça e colocar o resultado quando os números acabarem.
+[Mathemania](https://gfac.itch.io/mathemania) - Um jogo feito para celular de teste de velocidade de raciocínio lógico matemático, feito para um trabalho na faculdade onde o objetivo era desenvolver algum projeto que pudesse ajudar em uma das ODS(Objetivos de Desenvolvimento Sustentável (no caso foi escolhido a ODS 4 que implica em "Garantir uma educação inclusiva e equitativa de qualidade")) Durante a partida irão piscar varios números na tela, seu trabalho é fazer a soma deles de cabeça e colocar o resultado quando os números acabarem.
 
 
 <br>
