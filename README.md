@@ -1,6 +1,8 @@
 # 👦🏻 Gabriel Francisco
 
-**`Desenvolvedor FullStack`** **`Desenvolvedor de Jogos Indie`** **`Iniciando em PixelArt`**
+🎮 Desenvolvedor de Jogos Indie
+💻 Desenvolvedor Full Stack
+📚 Estudante de Tecnologia em Sistemas para Internet
 
 <div align="center"> 
 
@@ -10,7 +12,11 @@
 <!-- ![GFAC01 GitHub stats](https://github-readme-stats.vercel.app/api?username=GFAC01&show_icons=true&theme=tokyonight) -->
 ---
 
-Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetininga conclui o ensino médio na Escola Estadual Darcy Vieira PEI e estou cursando atualmente TSI (Tecnologia em Sistemas para Internet) no IFSP (Instituto Federal de São Paulo) e estou cursando criação de jogos e pixelart online nos cursos da NoNeClass. Amo desenvolvimento de jogos e coisas relacionadas a internet, informatica e tecnologia no geral, e compartilho alguns dos meus projetos e conquistas no meu canal do Youtube: "[gbarou](https://www.youtube.com/@gbarou)", onde eu passo algumas dicas de desenvolvimento de sistemas para jogos, compartilho a minha expêriencia em algumas situações como dev e envio atualizações sobre meus projetos.
+Olá! Sou Gabriel Francisco, estudante de Tecnologia em Sistemas para Internet (TSI) no IFSP.
+
+Tenho interesse em desenvolvimento de jogos, desenvolvimento web e criação de conteúdo sobre tecnologia. Atualmente desenvolvo projetos utilizando GameMaker.
+
+Também compartilho meus projetos, experiências e aprendizados no canal do YouTube "[gbarou](https://www.youtube.com/@gbarou)".
 
 <p align="left">
     <a href="https://www.youtube.com/@gbarou?sub_confirmation=1">
@@ -44,63 +50,30 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 
 ### ⚙️ Linguagens e Técnologias 🤖
 
-<img
-    align="left" 
-    alt="GML" 
-    title="GML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://yt3.googleusercontent.com/eq8ykgnZDNAjbBghjfipLWmBwC_rPIQSNYcZyBpvmhrp1yh14uBn0bv3qbbPrek9V9v3UzDH=s900-c-k-c0x00ffffff-no-rj"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 🎮 Desenvolvimento de Jogos
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<img
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🌐 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 <br>
@@ -118,6 +91,7 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 ## 🧑🏻‍💻 Meus Projetos 🎮
 
 ### 🎮 jogos (é necessário instalar eles para ter uma melhor experiência pois direto no site alguns ficam bugados)
+
 <img
     align="left" 
     alt="Dimensiocaos" 
@@ -155,6 +129,9 @@ Olá, meu nome é Gabriel Francisco tenho 19 anos e nasci na cidade de Itapetini
 
 
 <br>
+
+### 🎓 Projetos de Estudo
+
 <img
     align="left" 
     alt="Faster" 
