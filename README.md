@@ -229,6 +229,6 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrwLlh0Ec94HZhnWMARbIGHAVY2E067VGVPbU5kYxtPv3dXKFnrYuH5rb&s=10"
 />
 
-[Site para o Instituto Nosso Lar](https://nossolaritapetininga.com) - 🏡 Instituto Nosso Lar Site institucional desenvolvido para o Instituto Nosso Lar de Itapetininga, com o objetivo de fortalecer sua presença digital e facilitar o acesso às informações da instituição. O projeto foi planejado com foco em acessibilidade, navegação intuitiva e design responsivo, proporcionando uma boa experiência tanto em dispositivos móveis quanto em desktops.
+[Site criado para Instituto Nosso Lar](https://nossolaritapetininga.com) - 🏡 Instituto Nosso Lar ||| Site institucional desenvolvido para o Instituto Nosso Lar de Itapetininga, com o objetivo de fortalecer sua presença digital e facilitar o acesso às informações da instituição. O projeto foi planejado com foco em acessibilidade, navegação intuitiva e design responsivo, proporcionando uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
 </details>
