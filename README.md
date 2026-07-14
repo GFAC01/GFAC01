@@ -92,6 +92,9 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 
 ### 🎮 jogos (é necessário instalar eles para ter uma melhor experiência pois direto no site alguns ficam bugados)
 
+<details>
+<summary><strong>Clique para visualizar os Jogos</strong></summary>
+
 <img
     align="left" 
     alt="Dimensiocaos" 
@@ -197,7 +200,12 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 <br>
 <br>
 
-### Sites
+</details>
+
+### 🌐 Sites
+
+<details>
+<summary><strong>Clique para visualizar os Sites</strong></summary>
 
 <img
     align="left" 
@@ -209,3 +217,18 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 />
 
 [Site de ecommerce do Roblox](https://github.com/GFAC01/Site-pro-trabalho-da-faculdade) - foi um trabalho dado no final do segundo semestre, a tarefa principal era utilizar um Framework sorteado pelo professor para facilitar na criação do site, o Framework sorteado para mim e minha dupla foi o MaterializeCSS e no final da construção do site a gente ainda utilizou o cloudflare para deixar ele online com um domínio próprio de forma gratuita.
+
+<br>
+
+<img
+    align="left" 
+    alt="Site para o Instituto Nosso Lar" 
+    title="Site para o Instituto Nosso Lar"
+    width="120px" 
+    style="padding-right: 10px;"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrwLlh0Ec94HZhnWMARbIGHAVY2E067VGVPbU5kYxtPv3dXKFnrYuH5rb&s=10"
+/>
+
+[Site para o Instituto Nosso Lar](https://nossolaritapetininga.com) - 🏡 Instituto Nosso Lar Site institucional desenvolvido para o Instituto Nosso Lar de Itapetininga, com o objetivo de fortalecer sua presença digital e facilitar o acesso às informações da instituição. O projeto foi planejado com foco em acessibilidade, navegação intuitiva e design responsivo, proporcionando uma boa experiência tanto em dispositivos móveis quanto em desktops.
+
+</details>
