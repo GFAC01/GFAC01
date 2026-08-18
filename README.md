@@ -204,10 +204,10 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 
 ### 🌐 Sites
 
-[Meus Sites](href="https://gfac01.github.io/website-showcase/") - Meu portfólio de sites
+[Meus Sites](https://gfac01.github.io/website-showcase/) - Meu portfólio de sites
 
 <details>
-<summary><strong>Clique para visualizar os Sites</strong></summary>
+<summary><strong>Clique para visualizar os trabalhos com Sites</strong></summary>
 
 <img
     align="left" 
@@ -232,5 +232,9 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 />
 
 [Site criado para Instituto Nosso Lar](https://nossolaritapetininga.com) - 🏡 Instituto Nosso Lar ||| Site institucional desenvolvido para o Instituto Nosso Lar de Itapetininga, com o objetivo de fortalecer sua presença digital e facilitar o acesso às informações da instituição. O projeto foi planejado com foco em acessibilidade, navegação intuitiva e design responsivo, proporcionando uma boa experiência tanto em dispositivos móveis quanto em desktops.
+
+<br>
+
+[Manutenção do site da advogada Ágatha Faria](https://www.advagathafaria.com.br) - realizada a manutenção do site, foram adicionadas imagens e integração com o google ADS.
 
 </details>
