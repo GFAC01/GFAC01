@@ -204,7 +204,7 @@ Também compartilho meus projetos, experiências e aprendizados no canal do YouT
 
 ### 🌐 Sites
 
-[Meus Sites]() - Meu portfólio de sites
+[Meus Sites](href="https://gfac01.github.io/website-showcase/") - Meu portfólio de sites
 
 <details>
 <summary><strong>Clique para visualizar os Sites</strong></summary>
