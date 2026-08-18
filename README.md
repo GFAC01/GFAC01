@@ -6,7 +6,7 @@
 
 <div align="center"> 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gfac01&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GFAC01&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 <!-- ![GFAC01 GitHub stats](https://github-readme-stats.vercel.app/api?username=GFAC01&show_icons=true&theme=tokyonight) -->
